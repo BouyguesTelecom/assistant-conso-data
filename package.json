@@ -1,0 +1,23 @@
+{
+  "name": "consodata",
+  "description": "Dialogflow webhook for bytel-conso-data Google Assistant actions",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Bouygues Telecom",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "img": "node src/consoimg.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.44.0",
+    "actions-on-google": "^3.0.0",
+    "axios": "^0.24.0",
+    "canvas": "^2.8.0",
+    "dialogflow": "^1.2.0",
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
+  }
+}
