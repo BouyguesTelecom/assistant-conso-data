@@ -21,7 +21,7 @@
 7. Enable Account Linking
 8. Select "No, I only want to allow account on my website"
 9. For the Linking Type, select "OAuth" and "Authorization" for the grant type.
-10. Copy the Client ID and Client secret provided by Bouygues Telecom.
+10. Request a Client ID and Client secret via Bouygues Telecom Open API portal : https://developer.bouyguestelecom.fr/
 11. Authorization URL: https://oauth2.bouyguestelecom.fr/authorize
 12. Token URL: https://oauth2.bouyguestelecom.fr/token
 13. In the upper menu, click Develop. Then, click Actions in the left navigation.
