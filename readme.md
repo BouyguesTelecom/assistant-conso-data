@@ -37,17 +37,17 @@
 
 ## Account linking
 
-![](account_creation_section.PNG?raw=true)
-![](linking_type_section.PNG?raw=true)
-![](client_information_section.PNG?raw=true)
+![](img/account_creation_section.PNG?raw=true)
+![](img/linking_type_section.PNG?raw=true)
+![](img/client_information_section.PNG?raw=true)
 
 ## Testing a Dialogflow agent on Android
 
 1. On your phone, open [Google Assistant app.](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant)
 2. Say "Talk with name_of_your_agent" to start chatting with your bot.
-![](assistant_1.png?raw=true)
+![](img/assistant_1.png?raw=true)
 3. Launch your intent and now you can link Bouygues Telecom with Google Assistant.
-![](assistant_2.png?raw=true)
+![](img/assistant_2.png?raw=true)
 ## Additional informations
 - [OAuth linking flows](https://developers.google.com/assistant/identity/oauth-concept-guide)
 - [Testing best practices](https://developers.google.com/assistant/conversational/df-asdk/dialogflow/testing-best-practices)
